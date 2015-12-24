@@ -1,0 +1,20 @@
+{
+  "name": "whitespace-sass",
+  "version": "0.0.1",
+  "homepage": "http://ricardoerl.com/whitespace-sass",
+  "authors": [
+    "Ricardo Ramírez <hola@ricardoerl.com>"
+  ],
+  "description": "Responsive margin and padding utilities based on a global scale defined by you.",
+  "main": "whitespace-sass.scss",
+  "keywords": [
+    "whitespace-sass",
+    "sass",
+    "layout",
+    "utilities",
+    "margin",
+    "padding",
+    "responsive"
+  ],
+  "license": "MIT"
+}
